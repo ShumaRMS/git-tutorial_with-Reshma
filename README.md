@@ -1,4 +1,3 @@
-<<<<<<< .mine
 Beginner Projects
 =================
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/beginner-projects/Lobby)
@@ -14,10 +13,10 @@ Almost all projects can be completed in any language, but some were specifically
 Remember, if you don't know how to do something, Google is your friend.
 
 If you are completely stuck:
-```
+
 $ python
->>> import antigravity
-```
+import antigravity
+
 
 ## Project List
 (projects are somewhat ordered by increasing difficulty)
@@ -66,10 +65,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 
 ## Credits
 I did not create any of these projects. I originally found them on [reddit](https://reddit.com/r/beginnerprojects) where they are maintained [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing), although I have since added new ones.
-=======
-# git-tutorial_with-Reshma
 
-Created on 19/07/2018 ...am i finally going to finish this tutorial!!
 
 
 
